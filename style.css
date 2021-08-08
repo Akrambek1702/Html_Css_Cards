@@ -1,0 +1,19 @@
+body {
+ background-color: aquamarine;
+  
+}
+.first {
+    margin-left: 20px;
+    width: 200px;
+    background-color: red;
+    height: 200px;
+}
+.kattasi {
+ display: flex;
+ justify-content: center;
+}
+
+
+
+
+

@@ -1,0 +1,91 @@
+body { 
+    background-color: white;
+}
+.first {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5%;
+    border: 3px dotted rgb(21, 133, 153);
+    margin-left: 10px;
+}
+.first1 {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5%;
+    border: 3px dotted rgb(21, 133, 153);
+    margin-left: 10px;
+}
+.first2 {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5%;
+    border: 3px dotted rgb(21, 133, 153);
+    margin-left: 10px;
+}
+.first3 {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5%;
+    border: 3px dotted rgb(21, 133, 153);
+    margin-left: 10px;
+}
+.kattasi {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.forimg img {
+    width: 100px;
+    margin: 40px 40px 30px 70px;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    color: rgb(37, 32, 32);
+    font-family: serif;
+}
+.text {
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: grey;
+}
+.ok {
+    color: rgb(76, 76, 211);
+    font-family: serif;
+}
+
+.main {
+    text-align: center;
+    font-size: 30px;
+}
+
+.main h1 {
+    color: rgb(42, 119, 155);
+    font-size: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
